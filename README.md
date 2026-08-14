@@ -13,7 +13,7 @@ Pada tahap ini, saya membangun arsitektur database relasional (RDBMS) yang terdi
 
 *(Seluruh kueri DDL pembuatan tabel ini dapat dilihat pada file `library_analysis.sql` di repository ini).*
 
-![Struktur Database](Screenshot%2026-08-15%20011428.png)
+![Struktur Database](<Screenshot 2026-08-15 011428.png>)
 
 ---
 
